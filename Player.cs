@@ -1,4 +1,5 @@
 ﻿using BattleShipConsole.Enums;
+using BattleShipConsole.Models.Ships;
 using BattleShipConsole.Tools;
 using System;
 using System.Collections.Generic;

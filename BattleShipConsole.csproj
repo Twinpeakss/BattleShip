@@ -64,10 +64,15 @@
     <Compile Include="Models\FiringBoard.cs" />
     <Compile Include="Game.cs" />
     <Compile Include="Models\GameBoard.cs" />
+    <Compile Include="Models\Ships\BattleShip.cs" />
+    <Compile Include="Models\Ships\Carrier.cs" />
+    <Compile Include="Models\Ships\Cruiser.cs" />
+    <Compile Include="Models\Ships\Destroyer.cs" />
+    <Compile Include="Models\Ships\Submarine.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Models\Ship.cs" />
+    <Compile Include="Models\Ships\Ship.cs" />
     <Compile Include="Models\SingleCell.cs" />
     <Compile Include="Extensions\CellExtension.cs" />
   </ItemGroup>
